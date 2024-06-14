@@ -12,4 +12,4 @@ Bevor du das Portfolio-Projekt ausführen kannst, musst du sicherstellen, dass d
 Nachdem du Flutter erfolgreich installiert hast, kannst du das Repository klonen:
 
 ```bash
-git clone https://github.com/dein-benutzername/portfolio_5319149_final.git
+git clone https://github.com/sufian716/portfolio_5319149_final.git
